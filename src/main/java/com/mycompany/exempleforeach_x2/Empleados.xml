@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Empleados.xsl"?>
+<empleados>
+    <empleado>
+        <nombre>Juan</nombre>
+        <puesto>Desarrollador test</puesto>
+        <materiales_utilizados>
+            <material>Laptop</material>
+            <material>Libreta</material>
+        </materiales_utilizados>
+    </empleado>
+    <empleado>
+        <nombre>María</nombre>
+        <puesto>Diseñadora</puesto>
+        <materiales_utilizados>
+            <material>Tableta gráfica</material>
+            <material>Adobe Photoshop</material>
+        </materiales_utilizados>
+    </empleado>
+</empleados>
